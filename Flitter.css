@@ -1,0 +1,24 @@
+#FlitterIcon{
+    border-radius: 75%;
+    width: 100px;
+    height: 100px;
+}
+#mainDiv {
+    background-color: rgb(95, 247, 231);
+    border-radius: 20%;
+    align-items: center;
+    margin-left: 30%;
+    color:white;
+    font-weight: bold;
+}
+center {
+    display: block;
+    background-color: turquoise;
+}
+html {
+    background-color: turquoise;
+    text-align: center;
+}
+.container {
+    background-color: turquoise;
+}
